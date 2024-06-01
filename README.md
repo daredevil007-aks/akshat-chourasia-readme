@@ -1,4 +1,4 @@
-<h3 align="center">Ensemble Ensemble: Bagging, boosting, and harmonizing. 🎶</h3>
+<h3 align="center">Ensemble: Bagging, boosting, and harmonizing. 🎶</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daredevil007-aks&label=Profile%20views&color=0e75b6&style=flat" alt="daredevil007-aks" /> </p>
 
